@@ -11,11 +11,11 @@ if you finished click create room
 
 if you want to join room press join and them choose other room you want to join and them click join
 
-# WARNING!
+# Warning!
 
 this is all drawing i created
 
-## creadit
+## Creadit
 
 just only me but thanks for guiding geode on github
 and thanks for drawing app name: flipa clip or flipa clipa 
