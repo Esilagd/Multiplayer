@@ -1,10 +1,12 @@
 # about multiplayer
 Multiplayer is a mod for geode,allowing to play other player like globed
 
-create room
-joining room
-leaving room
-setting room if you want to change this
+# what you need him
+
+- create room
+- joining room
+- leaving room
+- setting room if you want to change this
 
 you will see it what will it
 
